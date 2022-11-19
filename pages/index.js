@@ -37,7 +37,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
-            <p>Tireeeddddddddd.</p>
+            <p>Tireeeddddddddd ggiiiigggfffiidi.</p>
           </a>
 
           <a
